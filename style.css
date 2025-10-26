@@ -63,6 +63,10 @@ body {
   color: #c7c6c6;
 }
 
+.navbar ul li:hover {
+  color: white;
+}
+
 .nav-icons {
   display: flex;
   align-items: center;
